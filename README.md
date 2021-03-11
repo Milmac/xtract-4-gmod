@@ -1,6 +1,6 @@
 # xtract-4-gmod
 
-<h1>This is .bat file will make extracting css game content easier for gmod.</h1>
+<h1>This .bat file will make installing css game content easier for gmod.</h1>
 
 <br>
 
