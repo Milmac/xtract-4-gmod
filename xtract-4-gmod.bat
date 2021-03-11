@@ -1,0 +1,1 @@
+powershell Expand-Archive -LiteralPath ((New-Object -ComObject Shell.Application).NameSpace('shell:Downloads').Self.Path + '\CSS Game Content.zip') -DestinationPath .\garrysmod\addons\ -Force
